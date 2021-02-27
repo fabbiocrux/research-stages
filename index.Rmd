@@ -25,6 +25,7 @@ require(countdown)
 # Welcome to your internship! {-}
 
 
+
  <img src="https://raw.githubusercontent.com/fabbiocrux/Figures/main/Various/People/educator.jpg" width="120" alt="Introductions course" align="right" style="margin: 0 1em 0 1em" /> We give you a warm welcome to the research at  ERPI and  Lorraine Fab Living Lab.
 
 
