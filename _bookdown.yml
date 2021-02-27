@@ -7,12 +7,11 @@ rmd_files:
 - 00-Research-conceptualization.Rmd
 - 01-literature.Rmd
 - 02-methodologies.Rmd
-#- 02-Rstudio.Rmd
-#- 04-ggplot.Rmd
-#- 05-Data-wrangling.Rmd
+- 03-Writing.Rmd
+- 04-Journals.Rmd
 - 06-references.Rmd
 output_dir: "docs"
 delete_merged_file: true
 language:
   ui:
-    chapter_name: "Week "
+    chapter_name: "Block "

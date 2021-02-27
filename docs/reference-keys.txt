@@ -2,5 +2,9 @@ bibliography-management
 research-conceptualization
 literature-reviews
 research-methods
+structuration-of-your-writing
+how-to-create-an-argument
+how-to-cite-properly
+selecting-the-journal
 on-additive-manufacturing
 on
