@@ -1,0 +1,89 @@
+--- 
+title: "Research at ERPI and Lorraine Fab Living Lab"
+author: "Fabio Cruz, Giovanny Arbelaez"
+date: "`r Sys.Date()`"
+site: bookdown::bookdown_site
+documentclass: book
+bibliography: [book.bib, packages.bib]
+biblio-style: apalike
+link-citations: yes
+description: "This is a guide to support the interns at ERPI and LF2L"
+---
+
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+
+require(tidyverse)
+require(xaringan)
+require(xaringanExtra)
+require(fontawesome)
+require(countdown)
+
+```
+
+# Bonjour à tous ! {-}
+
+
+ <img src="https://raw.githubusercontent.com/fabbiocrux/Figures/main/Various/People/educator.jpg" width="120" alt="Introductions course" align="right" style="margin: 0 1em 0 1em" /> We give you a warm welcome to the research at  ERPI and  Lorraine Fab Living Lab.
+
+
+We hope that the time you spend with us, it will benefit in terms of learning for scientific and professional career.
+
+Consider this guide as a general map for your internship. 
+Everyone at ERPI and LF2L is committed to do the best possible for help you during your internship.
+However, you need to remember that you are the chief of your research. 
+Take the control of you own research path since the beginning. 
+One of the most important soft skill in research is the autonomy.
+Autonomy will lead that you find the problems and the answers for your own path.
+We can only support you throughout the way.
+
+In the following pages, you will find some inputs and advices to take into account during the stage. 
+This guide is based in our experience working with students from different backgrounds and different research insights. 
+Also, knowing the type of research made at ERPI, this guide is focalised to topics that we care for. 
+We'll put links and related content that can be useful. 
+
+
+## How to use this guide {-}
+
+Before we start, take some minutes learning how to read this online book. 
+The first element is to understand this website. 
+
+In the top right of this webpage you will see this tools bar:
+
+```{r echo=FALSE, out.width = "600pt", fig.align='center', cache=TRUE, message=FALSE}
+knitr::include_graphics('Figures/Book/Book_controls.png')
+```
+
+From left to right these buttons will let you:
+
+* <i class="fa fa-bars fa-lg"></i> control the side bar
+
+* <i class="fa fa-search fa-lg"></i> search the entire book for a specific word
+
+* <i class ="fa fa-font settings fa-lg"></i> change the text size, font, colour
+
+* <i class ="fa fa-edit fa-lg"></i> propose an edit if you see a mistake that I can review
+
+* <i class="fa fa-download fa-lg"></i> view the webpage in the 'raw' RMarkdown format, we cover RMarkdown in the course 
+
+* <i class="fa fa-info" fa-lg></i> information about shortcuts for this book and most others like it
+
+In addition the <i class="fa fa-github fa-lg"></i> icon in the top right of the page takes you to the GitHub repository for this book, we cover GitHub in the course, but it's basically where the online files for the book are stored.
+
+
+
+## Noticed a mistake? {-}
+
+
+No one is perfect!, this guide is always a *Work in Progress*. 
+If you notice a mistake let us know through the [GitHub issues tab](https://github.com/LF2L/ensgsi-research-methods/issues)
+
+
+
+```{r include=FALSE}
+# automatically create a bib database for R packages
+knitr::write_bib(c(
+  .packages(), 'bookdown', 'knitr', 'rmarkdown'
+), 'packages.bib')
+```

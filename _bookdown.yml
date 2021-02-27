@@ -1,0 +1,18 @@
+book_filename: "Internship at ERPI  LF2L"
+rmd_files:
+- index.Rmd
+- 00-Purpose.Rmd
+- 00-Rules.Rmd
+- 00-Software.Rmd
+- 00-Research-conceptualization.Rmd
+- 01-literature.Rmd
+- 02-methodologies.Rmd
+#- 02-Rstudio.Rmd
+#- 04-ggplot.Rmd
+#- 05-Data-wrangling.Rmd
+- 06-references.Rmd
+output_dir: "docs"
+delete_merged_file: true
+language:
+  ui:
+    chapter_name: "Week "

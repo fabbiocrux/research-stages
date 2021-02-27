@@ -1,0 +1,45 @@
+# (PART\*) Recommended Softwares {-}
+
+# Introduction {-}
+
+Throughout the stage, there are several software that we recommend for the different purposes. 
+
+## Bibliography management
+
+It is strongly recommended that you use a bibliography management.
+This is required when you confronts to a hugen amount of information ffrom research papers. 
+
+Two options are proposed here below:
+
+
+1. **Zotero** is a bibliography management plug-in for Firefox. It allows auto-adding bibliographic information; notes to be added on each reference; importing and exporting bibliography databases..
+
+
+2. **Mendeley** up for free version
+
+
+## Literature Review {-}
+
+
+
+## Data Analysis and Data Visualization {-}
+
+### Install R {-}
+
+1. Go to R-Project https://www.r-project.org/ and click on [download R](http://cran.r-project.org/mirrors.html).
+2. Go to France, and select a Mirror (Univ-lyon works normally well!)
+3. Download according your machine and install
+
+### Rstudio {-}
+
+1. You can install R Studio on your own machine from: https://www.rstudio.com/products/rstudio/download/#download
+
+RStudio is a free and open-source integrated development environment for R 
+
+So, two options are proposed. **Please, do these steps before the day of the workshop**.
+If questions or problems, let us know as soon as possible
+
+Before the day of the course, we advise you to get functional access to these software / and platforms. 
+
+
+
